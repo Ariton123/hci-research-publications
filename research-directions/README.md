@@ -1,21 +1,29 @@
 # Research Directions
 
-This document tracks ongoing and future research directions that I plan to explore and develop further.
+This document tracks planned and exploratory research directions that may develop into future publications.
 
-## Current Research Topics
+## Educational Games and Interactive Learning
 
-### Educational Games and Interactive Learning
+Research based on **Chrono-Scientist: Bones of Meaning**, an educational game developed for my Master's thesis.
 
-Research related to educational technology, Human-Computer Interaction (HCI), and game-based learning, including my Master's thesis project.
+This direction examines:
 
-### Cognitive Performance in Esports
+- game-based learning
+- child-centered interaction design
+- museum-based educational experiences
+- Human-Computer Interaction evaluation
+- learning outcomes and gameplay telemetry
 
-Investigation of reaction time, reflex performance, cognitive adaptation, and long-term performance dynamics in competitive esports players.
+A revised research paper based on the completed thesis is planned.
+
+## Cognitive Performance in Esports
+
+Research into reaction time, reflex performance, cognitive adaptation, and long-term performance dynamics among competitive esports players.
 
 Working title:
 
-"The Reflex Ceiling: Investigating Cognitive Limits and Reaction-Time Decline in Esports Players"
+**The Reflex Ceiling: Investigating Cognitive Limits and Reaction-Time Decline in Esports Players**
 
-### Experimental Engineering Projects
+## Future Directions
 
-Technical explorations, prototypes, hackathons, and interdisciplinary engineering projects that may evolve into future publications.
+Additional research directions may emerge from technical prototypes, interdisciplinary engineering projects, hackathons, and earlier academic work following an assessment of their research contribution.
