@@ -1,62 +1,29 @@
 # HCI Research & Publications
 
-This repository contains research papers, publication drafts, technical reports, and ongoing research ideas related to Human-Computer Interaction (HCI), educational technology, cognition, and interactive systems.
+This repository documents published research, submitted manuscripts, planned publications, and longer-term research directions across Human-Computer Interaction, educational technology, interactive systems, software engineering, and cognition.
 
-The goal of this repository is to document both completed and ongoing research work, while also building a public record of long-term academic and technical development.
+## Repository Structure
 
----
+- [`publications/2026/`](publications/2026/) — publication records and current manuscript status
+- [`research-directions/`](research-directions/) — planned and exploratory research directions
+
+## Published Work
+
+- **A Benchmarking Framework for Multimodal User Interface Toolkits**  
+  arXiv: `2606.02977`
+
+- **Security and Human-Centered Assessment of BACnet-Controlled DALI Infrastructure in an Educational Building Automation Testbed**  
+  arXiv: `2606.17089`
 
 ## Main Research Areas
 
-Current topics of interest include:
-
-- Human-Computer Interaction (HCI)
-- Educational technology
-- Game-based learning
-- Cognitive performance in esports
+- Human-Computer Interaction
+- Educational technology and game-based learning
+- Multimodal user interfaces
 - Interactive systems and user experience
-- Digital learning environments
-- Experimental engineering projects
-
----
-
-## Current Projects
-
-### Chrono-Scientist: Bones of Meaning
-
-Research and development surrounding an interdisciplinary educational game created as part of my Master's thesis at the University of Bern.
-
-The project combines:
-- game development
-- educational interaction
-- anatomy and archaeology-inspired learning
-- user-centered evaluation methods
-
----
-
-### The Reflex Ceiling
-
-A research direction focused on cognitive performance and reaction-time dynamics in competitive esports players.
-
-The project explores topics such as:
-- reflex performance
-- neural adaptation
-- long-term cognitive strain
-- competitive gaming performance
-- reaction-time decline under pressure
-
----
+- Building automation and cyber-physical systems
+- Cognitive performance in esports
 
 ## Repository Purpose
 
-This repository serves as:
-- a publication workspace
-- a research archive
-- a technical writing portfolio
-- a long-term documentation space for academic and experimental work
-
----
-
-## Status
-
-Research and publication work is currently ongoing.
+This repository serves as a public research portfolio, publication record, technical-writing archive, and documentation space for ongoing academic work.
