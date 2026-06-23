@@ -8,28 +8,34 @@ This folder tracks research and publication work developed, submitted, or publis
 
 Published on arXiv in June 2026.
 
-- arXiv ID: `2606.02977`
-- Record: `multimodal-ui-toolkits-arxiv.md`
+* arXiv ID: `2606.02977`
+* Record: `multimodal-ui-toolkits-arxiv.md`
 
 ### Security and Human-Centered Assessment of BACnet-Controlled DALI Infrastructure in an Educational Building Automation Testbed
 
 Published on arXiv in June 2026.
 
-- arXiv ID: `2606.17089`
-- Record: `bacnet-dali-security-arxiv.md`
+* arXiv ID: `2606.17089`
+* Record: `bacnet-dali-security-arxiv.md`
+
+### Balanced Workforce: Governance-by-Design for Privacy-Preserving Inter-Firm Workforce Leasing
+
+Published on arXiv in June 2026.
+
+* arXiv ID: `2606.20732`
+* Record: `balanced-workforce-arxiv.md`
 
 ## Submitted Work
 
-The following manuscripts have been submitted and are awaiting arXiv processing:
+The following manuscript has been submitted and is awaiting arXiv processing:
 
-- Bachelor thesis revision
-- Balanced Workforce paper
-- Fuzzy Framework paper
+* Fuzzy Framework paper
 
 ## Planned Work
 
-- Master's thesis paper revision on educational game development and Human-Computer Interaction
-- Esports cognition study: *The Reflex Ceiling*
+* Bachelor thesis revision rebuild
+* Master's thesis paper revision on educational game development and Human-Computer Interaction
+* Esports cognition study: *The Reflex Ceiling*
 
 ## Purpose
 
