@@ -4,13 +4,13 @@
 
 **Title:** Security and Human-Centered Assessment of BACnet-Controlled DALI Infrastructure in an Educational Building Automation Testbed
 
-**Authors:** [Insert the complete author list exactly as shown on arXiv]
+**Authors:** Ariton Verush
 
 **arXiv ID:** 2606.17089
 
 **arXiv Link:** https://arxiv.org/abs/2606.17089
 
-**Subjects:** [Copy the subjects exactly from arXiv]
+**Subjects:** Cryptography and Security (cs.CR); Human-Computer Interaction (cs.HC)
 
 ## Background
 
