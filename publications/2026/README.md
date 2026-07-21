@@ -25,11 +25,16 @@ Published on arXiv in June 2026.
 * arXiv ID: `2606.20732`
 * Record: `balanced-workforce-arxiv.md`
 
+### A Fuzzy Logic Framework for Community-Aware Crime Hotspot Detection
+
+Published on arXiv in July 2026.
+
+* arXiv ID: `2607.16218`
+* Record: `fuzzy-crime-hotspot-arxiv.md`
+
 ## Submitted Work
 
-The following manuscript has been submitted and is awaiting arXiv processing:
-
-* Fuzzy Framework paper
+No active submitted manuscripts are currently tracked in this folder.
 
 ## Planned Work
 
